@@ -320,7 +320,7 @@ table {
 caption {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
-  color: #6c757d;
+  color: #9b8a1d;
   text-align: left;
 }
 
@@ -595,7 +595,7 @@ progress {
   margin-top: -1rem;
   margin-bottom: 1rem;
   font-size: 0.875em;
-  color: #6c757d;
+  color: #bca211;
 }
 .blockquote-footer::before {
   content: "— ";
@@ -626,7 +626,7 @@ progress {
 
 .figure-caption {
   font-size: 0.875em;
-  color: #6c757d;
+  color: #cbe2f6;
 }
 
 .container,
